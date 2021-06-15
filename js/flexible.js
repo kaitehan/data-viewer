@@ -40,4 +40,4 @@
     }
     docEl.removeChild(fakeBody)
   }
-}(window, document))
+}(window, document))();
